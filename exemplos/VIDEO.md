@@ -5,7 +5,7 @@ Este vídeo de 1:14 minuto apresenta uma visão rápida e envolvente do potencia
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Gemini](https://gemini.google.com/)** para roteirização e revisão;
-- IA Generativa **[D-ID]((https://copilot.microsoft.com/))** para criação de imagens;
+- IA Generativa **[copilot]((https://copilot.microsoft.com/))** para criação de imagens;
 - IA generativa **[Lumen5] (https://lumen5.com/)** para criação de video ;
 
 ## 🧐 Processo de Criação
